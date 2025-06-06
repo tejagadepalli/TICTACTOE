@@ -14,8 +14,6 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 * ✅ Game reset functionality
 * ✅ Clean, modern UI with responsive design
 
-> ℹ️ **Note:** This version supports only two players on the same device.
-
 ---
 
 ## 🚀 Live Demo
